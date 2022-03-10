@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/*
- * main: prints "Programming is like building a multilingual puzzle
- * Return: 0 if exit is successcul, else non-zero
+/**
+ * main: displays the message- ""Programming is like building a multilingual puzzle"
+ * return: 0 for successful exit
  */
 
 int main(void)
